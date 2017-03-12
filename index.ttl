@@ -1,0 +1,190 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+</> dcterms:title "Melvin Carvalho" ;
+	</openid.server> <http://openid4.me/index.php> ;
+	</openid2.provider> <http://openid4.me/index.php> ;
+	</openid.server> <http://openid4.me/index.php> .
+
+</di.css> </Stylesheet> <http://openid4.me/index.php> .
+
+</> a <http://xmlns.com/foaf/0.1/PersonalProfileDocument> ;
+	<http://xmlns.com/foaf/0.1/primaryTopic> </#me> .
+
+</#me> a <http://xmlns.com/foaf/0.1/Person> ;
+	<http://xmlns.com/foaf/0.1/name> "Melvin Carvalho" ;
+	<http://xmlns.com/foaf/0.1/mbox> "mailto:melvincarvalho@gmail.com" ;
+	<http://xmlns.com/foaf/0.1/nick> "melvincarvalho" ;
+	<http://xmlns.com/foaf/0.1/account> <http://opentabs.data.fm/d/38/b7e3ceca9b8c1ba5a176103a2ea
+b6530a51c07/public/transfers> ;
+        <http://www.w3.org/2002/07/owl#sameAs> <https://gitpay.org/melvincarvalho#this> ;
+        <http://www.w3.org/ns/pim/space#preferencesFile> <https://melvin.solid.live/Preferences/prefs
+> ;
+        <http://www.w3.org/ns/pim/space#storage> <https://melvin.solid.live/> ;
+	<http://purl.org/net/pingback/to> <https://my-profile.eu/pingback.php> .
+
+</#me> <http://my-profile.eu/ns/socweb#webapp> <https://my-profile.eu/> .
+</#me> <http://my-profile.eu/ns/socweb#webapp> <http://calendar.data.fm/> .
+</#me> <http://my-profile.eu/ns/socweb#webapp> <http://taskify.org/> .
+</#me> <http://my-profile.eu/ns/socweb#webapp> <http://webid.im/> .
+</#me> <http://my-profile.eu/ns/socweb#webapp> <http://opentabs.data.fm/> .
+</#me> <http://www.w3.org/ns/solid/terms#keys> <https://melvin.databox.me/keys/> .
+</#me> <http://www.w3.org/ns/auth/acl#delegates> <http://databox.me:3200/webid#me> .
+
+</#me> <http://my-profile.eu/ns/webapp#uses> <#findMe> .
+</#me> <http://www.w3.org/ns/solid/terms#inbox> <https://melvin.solid.live/inbox/> .
+</#me> <http://www.w3.org/ns/solid/terms#timeline> <https://melvin.databox.me/Public/timeline/> .
+</#me> <http://www.w3.org/ns/ui#backgroundImage> </cover.png> .
+#</#me> <https://w3id.org/cc#wallet> <https://gitpay.databox.me/Public/.wallet/github.com/melvincarva
+lho/inartes.com/wallet#this> .
+</#me> <https://w3id.org/cc#wallet> <http://melvincarvalho.com/wallet/small.ttl#this> .
+#</#me> <https://w3id.org/cc#wallet> <http://melvincarvalho.com/wallet/tidy.ttl#this> .
+
+</#me> <http://www.w3.org/ns/auth/acl#delegates> <http://id.myopenlink.net/DAV/home/KingsleyUyiIdehen
+/Public/software-agent.ttl#i> .
+
+
+</#findMe> <http://my-profile.eu/ns/webapp#description> "Share your location with your friends.".
+</#findMe> <http://my-profile.eu/ns/webapp#endpoint> <http://melvin.rww.io/apps/findme/location>.
+</#findMe> <http://my-profile.eu/ns/webapp#name> "FindMe".
+</#findMe> <http://my-profile.eu/ns/webapp#service> <https://findme.rww.io/>.
+    
+       
+    
+       
+    
+       
+
+</#me> <http://xmlns.com/foaf/0.1/knows> <https://sadecki.com/people/mark/webid#me>, <http://bblfish.
+net/people/henry/card#me> , <http://tobyinkster.co.uk/#i> , <http://wojciechpolak.org/foaf.rdf#me> , 
+<https://deiu.me/profile#me> , <http://mmt.me.uk/foaf.rdf#mischa> , <http://bart.netage.nl/foaf#bvl> 
+, <http://presbrey.mit.edu/foaf#presbrey> , <http://dr.jones.dk/me/#me> , <https://www.w3.org/People/
+Berners-Lee/card#i> , <https://silverbucket.net/#nkj> , <http://my.opera.com/chaals/xml/foaf/#me>, <h
+ttps://social.umeahackerspace.se/mmn/foaf>, <http://csarven.ca/#i>, <http://bshambaugh.org/foaf.rdf>,
+ <https://amarha.rww.io/profile/card#me>, <http://rhiaro.co.uk/about#me>, <http://byoung@bigbluehat.c
+om/#me> , <https://silverbucket.rww.io/profile/card#me>, <https://sadecki.com/people/mark/webid#me>, 
+<https://public.rww.io/profile/card#me>, <https://s3.amazonaws.com/webid-sandbox/Profile/Basic-Identi
+ty-Claims-And-Profile-Document.ttl#i>, <https://chrisellis.databox.me/profile/card#me>, <https://akuc
+kartz.databox.me/profile/card#me>, <https://workbot.databox.me/profile/card#me>, <https://inartes.dat
+abox.me/profile/card#me>, <https://projectbitmark.slack.com/team/melvincarvalho#this>, <https://dan-f
+.databox.me/profile/card#me> .
+
+</#me> <http://xmlns.com/foaf/0.1/weblog> </blog> , </smob> , <http://twitter.com/melvincarvalho>;
+	<https://w3id.org/cc#bitcoin> <bitcoin:12GY8Pv156WCK9Un98yAwH56AcjDhupDjv> ;
+	<https://w3id.org/cc#bitmark> <bitmark:bMELVsboxdPU2w3a75aKXYAiNQryfKbXpm> ;
+	<https://w3id.org/cc#testnet3> <bitcoin:miJHHEv94TWjGH6UDbPPf5RQ3LR9sfYHf7> ;
+	<http://xmlns.com/foaf/0.1/depiction> </melvincarvalho.png> .
+
+</melvincarvalho.png> <http://xmlns.com/foaf/0.1/depiction> </melvincarvalho.png> .
+
+</#me> <http://www.w3.org/ns/auth/cert#key> </#key1>, </#key2>, </#key3>, </#key4> .
+
+</#me> <http://www.w3.org/ns/solid/terms#publicTypeIndex>  <https://melvin.databox.me/publicTypeIndex
+.ttl> .
+
+</#key1> a <http://www.w3.org/ns/auth/cert#RSAPublicKey> ;
+	<http://www.w3.org/ns/auth/cert#modulus> "d798758afd0844f3668f88e728e735b34e94706dbcdc7ab8583
+1402bb043a88508a7d7c4eb462dafd917e6d3058f59597c54739f830bbff9ff5d740c906ac480efe3e1c9d0a8e57de81a987a
+7fd0c1b68b4b4ca1e434aec07c4f43cd048a86e085d28f69b3e97c844d3aedb749c273639f0abfef3d5829fe85677b3436470
+1132e4459b95acc334704f80c4de3e0e79f21acf282c401e73e7e577fbbc195a91132e215c411191bae3c67ed1c3d12934a9a
+8513bbe8aafc6e024701a1595b848c1fe5b5f6ac93891e339e3d181d48b3a57ae862b50096a40570dde7b3fa9f149a72f5bc7
+d5dc20099cd26015e20f7f3dc611b66f2c784997d993b9899c7afd25f"^^<http://www.w3.org/2001/XMLSchema#hexBina
+ry> ;
+	<http://www.w3.org/ns/auth/cert#exponent> "65537"^^<http://www.w3.org/2001/XMLSchema#integer>
+ ;
+	<http://xmlns.com/wot/0.1/fingerprint> "5B8F 3CDF 0A25 BADE 4F29  190F 114E F7BC 9460 4583" ;
+	<http://xmlns.com/wot/0.1/hex_id> "15f3dd63505f3160" ;
+	<http://xmlns.com/wot/0.1/pubkeyAddress> </melvincarvalho.asc> .
+
+
+</#key2> a <http://www.w3.org/ns/auth/cert#RSAPublicKey> ;
+        <http://www.w3.org/ns/auth/cert#modulus> "b25d628bba55990f5a0265c3847283bc0225fdd9fcdfc2eb0ab
+b4c4187d46f58d26b65c48cfbb97804210cc41123b98b853e54743a33d2792a62e39b45f9be8fa23a1507fdb7c024297a2194
+5c1a88e1a5879ed128ddd1294f70336045f415371ac2c2711c3143337ab25692a38fda40f8b95492063811948dad5df54edea
+2df6f8aef006a2b281a102590005c9bd4470f5cefefb9e9e48e900f8728b16d5d7e8d66289d26db6850f5b5bda5bbce168c42
+d3988df8a124c8eba4e0623e9121fd115fd31db696deec1cb70d12bce3ff9d199b26de35e28137cd24c39dcaf2c25f7388538
+ee86941fcdf295e9e7871610d608f2333341cb7ee78d2392496577efbff1ac7de3c886c7170e3e5482d30cf75679969f6f5c9
+ab46d422acb572399c2d7f068aaf02f784198ccba59483f7d8a1d0ffbde2494fc7c5e505adce6673b4d901ab1616f11b3a609
+f90c78f9bb624372248300a3b2913ecd9892ec964d60b197d96447938b2dcb86e9806ef4a3435aefc1c8b3660c1bcff5492a9
+5a1aeeaa37019ebcf7ee744add279019aafa5dec3e9e43b5251ab707edcad48b5de1fbf80b17d02994bede25b0523a5225fad
+4f8d4fa75fe1a8f2f60f50907b2ff4965d1ef6b42e5262ca2c597a5a159ed28dea2362bb635b0da6ebef5e5d0dd1ffdbe7525
+4f3aa0ac5626f023e8f0e8c444a1ed2a049c6dffb7ec2e3f29181463dac6721b"^^<http://www.w3.org/2001/XMLSchema#
+hexBinary> ;
+        <http://www.w3.org/ns/auth/cert#exponent> "65537"^^<http://www.w3.org/2001/XMLSchema#integer>
+ .
+
+
+
+</#key3> a <http://www.w3.org/ns/auth/cert#RSAPublicKey> ;
+        <http://www.w3.org/ns/auth/cert#modulus> "F5840F089F926E542A24B74AC75D27B0633241209C01DF385D6
+60B93BBE6C640AA9E8DE8312C91B790ED7EEEBA631410BB7C0FB6DF440385A71BFDB056EA28B8104547424C8879222A0BA3F9
+4351C790BB90DB53904272F3CFDEE33FCEFB4464DBEE6ACF56A2C397A42B60008DDF53092CA162EFCD99931C53D942043AB58
+C738740A5FBED99F58EA4B15152AA4309D793903C0F7CFFEC3D1A0EB8F5DD7A8E750AB74DD2701AD2F8201774826827F28B85
+988F941C48699A1220246302876D274890FFDE703E1449EBE1E2DD85C2C05C001CED3098E957B141502BA8D17E0EFBFE71FD0
+0B9CB31A6B44176F283AF5C610E02808CDD4EE93C29779CA8F1D58A29"^^<http://www.w3.org/2001/XMLSchema#hexBina
+ry> ;
+        <http://www.w3.org/ns/auth/cert#exponent> "65537"^^<http://www.w3.org/2001/XMLSchema#integer>
+ .
+
+</#key4> a <http://www.w3.org/ns/auth/cert#RSAPublicKey> ;
+        <http://www.w3.org/ns/auth/cert#modulus> "D8FAC32F722A702471B67F69C2F54D5DCA78DD53A6E72325E82
+407E7D6F9510D52BBD66745F80B874F0E597DEC843196DB3D015BA7948CDD2C6F4523E60BFAC316CD931C8B0E063E942DF4FF
+B36F6ADD7C801EF7B125430D2F6EEB06A80D7E8FF6323E3DEAE5D23A7E17187AD3E49B08AD63AC07C2994EF009F015AAACBA4
+47914801B46146735153EF58635551A0908147F48BB390B8B1D0F4BFEF9DD7F6634AB8AADC078A9A40DDF570AB2B3415F4C49
+5A8C98ECFDDE0E348578F00A3B7BF1510F442455D2A79F2437E66667FDE7E370D5603C5139736DBECB0B902929DBA3E74541D
+7D346C90505B5C424BFC557870970CC614BE5E678B853FABF91DE5BDB"^^<http://www.w3.org/2001/XMLSchema#hexBina
+ry> ;
+        <http://www.w3.org/ns/auth/cert#exponent> "65537"^^<http://www.w3.org/2001/XMLSchema#integer>
+ .
+ 
+
+
+</> dcterms:conformsTo <http://www.w3.org/TR/rdfa-syntax> .
+
+<http://www.w3.org/TR/rdfa-syntax> <http://www.w3.org/2000/01/rdf-schema#seeAlso> </likes> .
+
+<#ld-cal>
+    <http://ns.rww.io/wapp#description>
+       "Simple Linked Data calendar with agenda.";
+    <http://ns.rww.io/wapp#endpoint>
+       <https://melvin.rww.io/cal/events>;
+    <http://ns.rww.io/wapp#name>
+       "LD-Cal";
+    <http://ns.rww.io/wapp#serviceId>
+       <https://ld-cal.rww.io>;
+    a    <http://ns.rww.io/wapp#app>.
+
+<https://silverbucket.net/#nkj> <http://xmlns.com/foaf/0.1/name> "Nick Jennings" ; <http://xmlns.com/
+foaf/0.1/depiction>  <https://silverbucket.net/img/avatar.png> .
+
+
+
+<http://rhiaro.co.uk/about#me> <http://xmlns.com/foaf/0.1/name> "Amy Guy" ; <http://xmlns.com/foaf/0.
+1/depiction>  <https://en.gravatar.com/userimage/5236560/4c00a524a0fd157160742d80907349ae.png> .
+
+<http://byoung@bigbluehat.com/#me> <http://xmlns.com/foaf/0.1/name> "Benjamin Young" ; <http://xmlns.
+com/foaf/0.1/img>  <https://pbs.twimg.com/profile_images/1122951400/logo_on_white.png> .
+
+<http://webr3.org/nathan#me> <http://xmlns.com/foaf/0.1/name> "Nathan Rixham" ; <http://xmlns.com/foa
+f/0.1/depiction>  <https://web.archive.org/web/20110202102702/http://a3.twimg.com/profile_images/5322
+61191/tiny2.jpg> .
+
+
+
+<https://sadecki.com/people/mark/webid#me>
+<http://xmlns.com/foaf/0.1/name>
+"Mark J Sadecki" .
+
+
+<https://projectbitmark.slack.com/team/melvincarvalho#this>  <http://xmlns.com/foaf/0.1/name> "Melvin
+ Carvalho" .
+
+<http://id.myopenlink.net/DAV/home/KingsleyUyiIdehen/Public/software-agent.ttl#i> <http://www.w3.org/
+ns/auth/cert#key> [ <http://www.w3.org/ns/auth/cert#exponent> "65537"^^xsd:int ;
+<http://www.w3.org/ns/auth/cert#modulus> 
+"c64d714d7ec158416d113cbb069c74fe5e592f5202235e6389668cb706533d814fca86b9f8722a84ec2c80dc09ba9b315b88
+8660a04ef6efef0589c930cd6f93ff8eafa25b322ebd8f9e222f2674ae3b433df52509d7dd562b807529836e22b5b6d3ff44f
+58949992a2e411952461612cb21369bed93247994f22fc7c7778bbe16629aeaea812256421a036321b43c375a3414c0401ad7
+b66c8738ceca760ac0db1273b26e7043f9e8e23b1da0a9facf72302b2528ab50b9ce2a60822ff06d0f69a3856687e48ec5e1f
+04f1afdda56f7fb47b9e15979e1f851c9d9b90a37dfb49a32dd4830d551e4a55d9de68924a3d33163cbda3538254796e50028
+55f1848d"^^xsd:hexBinary ] .
